@@ -1,9 +1,9 @@
 
 
 <h1 align="center"> Ariel Barrios - Desarrollador Frontend</h1>
-
+<!--
 <h2 align="center">¿Quién soy?</h2>
-
+-->
 <p align="center">
   Hola! Soy desarrollador y actualmente me enfoco en la creación de páginas personalizadas. Siempre me encuentro en constante aprendizaje, actualizando e incrementando mis conocimientos y habilidades. Me gusta el trabajo colaborativo y me destaco en procesos ágiles y flexibles.
 </p>
