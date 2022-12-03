@@ -26,11 +26,13 @@
   <img src="https://ariel2911.github.io/portafolio/assets/icons/Webpack.svg" alt="logo webpack" height="30" width="30">
   <img src="https://ariel2911.github.io/portafolio/assets/icons/Git.svg" alt="logo git" height="30" width="30">
   <img src="https://ariel2911.github.io/portafolio/assets/icons/Figma.svg" alt="logo figma" height="30" width="30">
+  <!--
   <img src="" alt="logo " height="30" width="30">
   <img src="" alt="logo " height="30" width="30">
   <img src="" alt="logo " height="30" width="30">
   <img src="" alt="logo " height="30" width="30">
   <img src="" alt="logo " height="30" width="30">
+  -->
 </p>
 
 <h2 align="center">Contacto</h2>
