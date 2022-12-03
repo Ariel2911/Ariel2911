@@ -39,10 +39,10 @@
 
 <p align="center">
   <a href="">
-    <img src="https://ariel2911.github.io/portafolio/assets/icons/linkedin.svg" alt="logo linkedin" height="30" width="30">
+    <img src="https://i.imgur.com/a1VMcOg.png" alt="logo email" height="30" width="30">
   </a>
    <a href="https://www.linkedin.com/in/ariel-alejandro-barrios-0bb358199/">
-    <img src="https://ariel2911.github.io/portafolio/assets/icons/linkedin.svg" alt="logo linkedin" height="30" width="30">
+    <img src="https://i.imgur.com/KFAq9X6.png" alt="logo linkedin" height="30" width="30">
   </a>
 </p>
 
