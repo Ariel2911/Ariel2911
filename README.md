@@ -1,6 +1,77 @@
 ### Hi there 👋
 
-https://camo.githubusercontent.com/3264410564e50f42bb53ced563f49d1abae417436376b67852633008674f5649/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d416e68656c6c4f266c616e67735f636f756e743d3130267468656d653d746f6b796f6e69676874266c61796f75743d636f6d70616374
+# Ariel Barrios
+
+<h2 align="center">¿Quién soy?</h2>
+
+<p>
+  Hola! Soy desarrollador y actualmente me enfoco en la creación de páginas personalizadas. Siempre me encuentro en constante aprendizaje, actualizando e incrementando mis conocimientos y habilidades. Me gusta el trabajo colaborativo y me destaco en procesos ágiles y flexibles.
+</p>
+
+<h2 align="center">Tecnologías</h2>
+
+<p align="center">
+  <a href="">
+    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Angel Santiago Jaime Zavala's DEV Profile" height="30" width="30">
+  </a>
+
+  <a href="">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="30" width="30">
+  </a>
+
+  <a href="">
+    <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="Angel Santiago Jaime Zavala's Stack Overflow Profile" height="30" width="30">
+  </a>
+
+  <a href="">
+    <img src="https://www.vectorlogo.zone/logos/stackexchange/stackexchange-icon.svg" alt="Angel Santiago Jaime Zavala's Stack Exchange Profile" height="30" width="30">
+  </a>
+
+  <a href="">
+    <img src="https://cdn.worldvectorlogo.com/logos/stackshare.svg" alt="Angel Santiago Jaime Zavala's StackShare Profile" height="30" width="30">
+  </a>
+  
+  <a href="">
+    <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="Angel Santiago Jaime Zavala's GitLab Profile" height="30" width="30">
+  </a>
+  
+  <a href="">
+    <img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="Angel Santiago Jaime Zavala's Medium Profile" height="30" width="30">
+  </a>
+  
+  <a href="">
+    <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Angel Santiago Jaime Zavala's YouTube Channel" height="30" width="30">
+  </a>
+</p>
+
+<h2 align="center">My stack :man_technologist:</h2>
+
+<p align="center">Herramientas que uso a diario, o que he usado o con las que he trabajado (mucho o poco) en el pasado</p>
+<p align="center">
+  <a href="">
+    <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="AnhellO :: StackShare" />
+  </a>
+</p>
+
+<h2 align="center">Estadísticas Github :bar_chart:</h2>
+
+<h3 align="center">Contador de visitantes :eyes:</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{Ariel2911}/count.svg" alt="Ariel2911 :: Visitor's Count" /></p>
+
+<h3 align="center">Principales lenguajes :tongue:</h4>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ariel2911&langs_count=10&theme=tokyonight&layout=compact" alt="Ariel2911 :: Top Langs" /></p>
+
+<h3 align="center">Estadísticas de perfil :musical_keyboard:</h4>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Ariel2911&show_icons=true&theme=synthwave" alt="Ariel2911 :: Profile Stats" /></p>
+
+
+
+---
+
+
 
 <!--
 **Ariel2911/Ariel2911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
