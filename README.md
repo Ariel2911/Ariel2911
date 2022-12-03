@@ -14,38 +14,33 @@
 
 <p align="center">
   <img src="https://ariel2911.github.io/portafolio/assets/icons/React.svg" alt="logo react" height="30" width="30">
-  
-
-  <a href="">
-    <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="Angel Santiago Jaime Zavala's Stack Overflow Profile" height="30" width="30">
-  </a>
-
-  <a href="">
-    <img src="https://www.vectorlogo.zone/logos/stackexchange/stackexchange-icon.svg" alt="Angel Santiago Jaime Zavala's Stack Exchange Profile" height="30" width="30">
-  </a>
-
-  <a href="">
-    <img src="https://cdn.worldvectorlogo.com/logos/stackshare.svg" alt="Angel Santiago Jaime Zavala's StackShare Profile" height="30" width="30">
-  </a>
-  
-  <a href="">
-    <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="Angel Santiago Jaime Zavala's GitLab Profile" height="30" width="30">
-  </a>
-  
-  <a href="">
-    <img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="Angel Santiago Jaime Zavala's Medium Profile" height="30" width="30">
-  </a>
-  
-  <a href="">
-    <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Angel Santiago Jaime Zavala's YouTube Channel" height="30" width="30">
-  </a>
+  <img src="https://ariel2911.github.io/portafolio/assets/icons/TypeScript.svg" alt="logo typescript" height="30" width="30">
+  <img src="https://ariel2911.github.io/portafolio/assets/icons/Styled-Component.svg" alt="logo styled-component" height="30" width="30">
+  <img src="https://ariel2911.github.io/portafolio/assets/icons/JavaScript.svg" alt="logo javascript" height="30" width="30">
+  <img src="https://ariel2911.github.io/portafolio/assets/icons/HTML.svg" alt="logo html" height="30" width="30">
+  <img src="https://ariel2911.github.io/portafolio/assets/icons/HTML.svg" alt="logo css" height="30" width="30">
+  <img src="https://ariel2911.github.io/portafolio/assets/icons/Pug.svg" alt="logo pug" height="30" width="30">
+  <img src="https://ariel2911.github.io/portafolio/assets/icons/Sass.svg" alt="logo sass" height="30" width="30">
+  <img src="https://ariel2911.github.io/portafolio/assets/icons/NPM.svg" alt="logo npm" height="30" width="30">
+  <img src="https://ariel2911.github.io/portafolio/assets/icons/Gulp.svg" alt="logo gulp" height="30" width="30">
+  <img src="https://ariel2911.github.io/portafolio/assets/icons/Webpack.svg" alt="logo webpack" height="30" width="30">
+  <img src="https://ariel2911.github.io/portafolio/assets/icons/Git.svg" alt="logo git" height="30" width="30">
+  <img src="https://ariel2911.github.io/portafolio/assets/icons/Figma.svg" alt="logo figma" height="30" width="30">
+  <img src="" alt="logo " height="30" width="30">
+  <img src="" alt="logo " height="30" width="30">
+  <img src="" alt="logo " height="30" width="30">
+  <img src="" alt="logo " height="30" width="30">
+  <img src="" alt="logo " height="30" width="30">
 </p>
 
 <h2 align="center">Contacto</h2>
 
 <p align="center">
   <a href="">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="30" width="30">
+    <img src="https://ariel2911.github.io/portafolio/assets/icons/linkedin.svg" alt="logo linkedin" height="30" width="30">
+  </a>
+   <a href="https://www.linkedin.com/in/ariel-alejandro-barrios-0bb358199/">
+    <img src="https://ariel2911.github.io/portafolio/assets/icons/linkedin.svg" alt="logo linkedin" height="30" width="30">
   </a>
 </p>
 
@@ -62,8 +57,6 @@
 <h3 align="center">Estadísticas de perfil</h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Ariel2911&show_icons=true&theme=synthwave" alt="Ariel2911 :: Profile Stats" /></p>
-
-
 
 ---
 
