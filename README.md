@@ -18,7 +18,7 @@
   <img src="https://ariel2911.github.io/portafolio/assets/icons/Styled-Component.svg" alt="logo styled-component" height="30" width="30">
   <img src="https://ariel2911.github.io/portafolio/assets/icons/JavaScript.svg" alt="logo javascript" height="30" width="30">
   <img src="https://ariel2911.github.io/portafolio/assets/icons/HTML.svg" alt="logo html" height="30" width="30">
-  <img src="https://ariel2911.github.io/portafolio/assets/icons/HTML.svg" alt="logo css" height="30" width="30">
+  <img src="https://ariel2911.github.io/portafolio/assets/icons/CSS.svg" alt="logo css" height="30" width="30">
   <img src="https://ariel2911.github.io/portafolio/assets/icons/Pug.svg" alt="logo pug" height="30" width="30">
   <img src="https://ariel2911.github.io/portafolio/assets/icons/Sass.svg" alt="logo sass" height="30" width="30">
   <img src="https://ariel2911.github.io/portafolio/assets/icons/NPM.svg" alt="logo npm" height="30" width="30">
