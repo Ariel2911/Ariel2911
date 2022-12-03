@@ -47,11 +47,11 @@
 </p>
 
 <h2 align="center">Estadísticas Github :bar_chart:</h2>
-
+<!--
 <h3 align="center">Contador de visitantes :eyes:</h4>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{Ariel2911}/count.svg" alt="Ariel2911 :: Visitor's Count" /></p>
-
+-->
 <h3 align="center">Principales lenguajes</h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ariel2911&langs_count=10&theme=tokyonight&layout=compact" alt="Ariel2911 :: Top Langs" /></p>
