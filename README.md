@@ -1,6 +1,6 @@
-### Hi there 👋
 
-# Ariel Barrios
+
+<h1 align="center"> Ariel Barrios - Desarrollador Frontend</h1>
 
 <h2 align="center">¿Quién soy?</h2>
 
