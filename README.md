@@ -1,6 +1,7 @@
 
 
-<h1 align="center"> Ariel Barrios - Desarrollador Frontend</h1>
+<h1 align="center"> Ariel Barrios</h1>
+<h2 align="center"> Desarrollador Frontend</h2>
 <!--
 <h2 align="center">¿Quién soy?</h2>
 -->
