@@ -70,7 +70,7 @@
 
 ---
 
-
+<!--
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
  <h2 align="center">Perfil</h2>
@@ -114,7 +114,7 @@
 <a href="" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@ariel-blue?style=flat&logo=linkedin"></a>
 <a href="mailto:ariel@gmal.com"><img alt="Email" src="https://img.shields.io/badge/Email-ariel@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
-
+-->
 
 
 <!--
