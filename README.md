@@ -80,7 +80,7 @@
 > Desarrollador Frontend
 
 
-<img src="https://komarev.com/ghpvc/?username=anandmainali" alt="anandmainali" />
+<img src="https://komarev.com/ghpvc/?username=ariel" alt="ariel" />
 
 <div>
  <p>
