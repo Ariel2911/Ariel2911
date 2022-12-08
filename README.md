@@ -38,10 +38,10 @@
 <h2 align="center">Contacto</h2>
 
 <p align="center">
-  <a href="">
+  <a href="mailto:ariel29111978@hotmail.com">
     <img src="https://i.imgur.com/a1VMcOg.png" alt="logo email" height="30" width="30">
   </a>
-   <a href="https://www.linkedin.com/in/ariel-alejandro-barrios-0bb358199/">
+   <a href="https://www.linkedin.com/in/ariel-alejandro-barrios-0bb358199/" target="_blank">
     <img src="https://i.imgur.com/KFAq9X6.png" alt="logo linkedin" height="30" width="30">
   </a>
 </p>
